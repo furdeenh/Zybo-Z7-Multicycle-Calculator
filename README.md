@@ -40,6 +40,9 @@ The flow of data through the stages is as follows:
 
 The final gate-level RTL circuit schematic design demonstrates the single-cycle datapath adapted to multicycle execution. The schematic highlights the various components and data paths involved in the execution of load, add, and negate instructions over multiple cycles.
 
+<img width="1050" alt="Screenshot 2024-06-02 at 11 35 00 PM" src="https://github.com/furdeenh/Zybo-Z7-Multicycle-Calculator/assets/125673808/bec4f39b-7b48-4594-9bc5-e64d5bdcd2b6">
+
+
 ### Key Components:
 - **Instruction Register (IR)**: Holds the instruction after it has been fetched from memory.
 - **Memory Data Register (MDR)**: Temporarily holds data fetched from memory.

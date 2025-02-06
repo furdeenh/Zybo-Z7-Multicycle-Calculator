@@ -1,5 +1,7 @@
 # Multicycle Calculator
 
+**Authors**: Edrian Vargas and Furdeen Hasan
+
 ## Introduction & Background
 
 The objective of this lab is to implement a multicycle calculator using VHDL. The calculator supports three instructions: load, add, and negate, each executed over three stages (ID, EXE, WB). This multicycle approach demonstrates the sequencing of instruction execution and inter-stage registers.
